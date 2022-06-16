@@ -23,7 +23,7 @@
 
 <p>
  <img src="Columns/column_side.png" width="45%">
- <img src="Columns/columns_top.png" width="45%">
+ <img src="Columns/column_top.png" width="45%">
  <br>
  <img src="Columns/column_bottom.png" width="45%">
 </p>
