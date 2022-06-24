@@ -27,3 +27,19 @@
  <br>
  <img src="Columns/column_bottom.png" width="45%">
 </p>
+
+## Raspberry case angle brackets
+[3D Model](AngleBracket/angle_bracket.stl)
+
+<p>
+ <img src="AngleBracket/angle_bracket_1.png" width="45%">
+ <img src="AngleBracket/angle_bracket_2.png" width="45%">
+</p>
+
+## Raspberry case rooftop support
+[3D Model](RooftopSupport/rooftop_support.stl)
+
+<p>
+ <img src="RooftopSupport/rooftop_support_1.png" width="45%">
+ <img src="RooftopSupport/rooftop_support_2.png" width="45%">
+</p>
