@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'AA3528QBS_D'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Kingbright", "AA3528QBS/D" (!) = "", "LEDM3528X210N", "LED Moulded", "604-AA3528QBS/D", "https://www.mouser.co.uk/ProductDetail/Kingbright/AA3528QBS-D?qs=rY7msk5yxfZf0R9wN9U5BA%3D%3D", "AA3528QBS/D", "https://www.arrow.com/en/products/aa3528qbsd/kingbright", "Standard LEDs - SMD Blue Water Clear 470nm 150mcd", "https://www.kingbrightusa.com/images/catalog/spec/aa3528qbs-d.pdf", "2.1 mm"
+END_PART
+
+END.

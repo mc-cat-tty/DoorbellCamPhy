@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "LEDM3528X210N"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "LEDM3528X210N")
+        (spec "default")
+    )
+)

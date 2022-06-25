@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ESP32_WROOM_32E__8MB_'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Espressif Systems", "ESP32-WROOM-32E (8MB)" (!) = "", "ESP32WROOM32E8MB", "Other", "356-ESP32WRM32E164PH", "https://www.mouser.co.uk/ProductDetail/Espressif-Systems/ESP32-WROOM-32E-8MB?qs=GBLSl2AkirsjshqvD9slKA%3D%3D", "", "", "WiFi Modules (802.11) Mod 8 MB SPI flash PCB antenna", "https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf", "3.2 mm"
+END_PART
+
+END.

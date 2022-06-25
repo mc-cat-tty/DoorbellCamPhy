@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=CD4067BEE4
+PartCategory=Integrated Circuit
+PackageCategory=Dual-In-Line Packages
+PinCount=24
+Version=2.1
+Released=2021-11-27 06:47:38
+Downloaded=2022-06-24 16:20:11
+3D=Y

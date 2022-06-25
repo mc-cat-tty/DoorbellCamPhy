@@ -1,0 +1,18 @@
+.CD4067BEE4 :1 ;Analog Multiplexer Single 16:1
+DIP1080W53P254L3104H508Q24N
+*STM IC
+*NGS
+*PLB 1="COMMON OUT/IN" 2="CHANNEL IN/OUT 7" 3="CHANNEL IN/OUT 6" 4="CHANNEL IN/OUT 5" 5="CHANNEL IN/OUT 4" 6="CHANNEL IN/OUT 3" 7="CHANNEL IN/OUT 2" 8="CHANNEL IN/OUT 1" 9="CHANNEL IN/OUT 0" 10="A" 11="B" 12="VSS" 13="D" 14="C" 15="INHIBIT" 16="CHANNEL IN/OUT 15" 17="CHANNEL IN/OUT 14" 18="CHANNEL IN/OUT 13" 19="CHANNEL IN/OUT 12" 20="CHANNEL IN/OUT 11" 21="CHANNEL IN/OUT 10" 22="CHANNEL IN/OUT 9" 23="CHANNEL IN/OUT 8" 24="VDD"
+*MXP 24
+*DFN CD4067BEE4
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (CD4067BEE4)
+~!Mouser Part Number (595-CD4067BEE4)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/CD4067BEE4?qs=LSR%252BNeaw%2FwAOj6GB2EY6rw%3D%3D)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Link Datasheet (https://pdf1.alldatasheet.com/datasheet-pdf/view/551558/TI/CD4067BEE4.html)
+~!Height (5.08mm)
+~!3D_Model (CD4067BEE4)
+CD4067BEE4
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 11.1!U 12.1!U 24.1!U 23.1!U 22.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 15.1!U 14.1!U 13.1!U 

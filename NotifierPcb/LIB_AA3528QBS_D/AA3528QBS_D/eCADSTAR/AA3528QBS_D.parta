@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_251387"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-11-13-13:28:44)
+    (utime 2020-11-14-06:26:38)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "AA3528QBS_D")
+)
+
+
+(pinAssign "ECS_251387"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-11-13-13:28:44)
+    (utime 2020-11-14-06:26:38)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_251387")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "AA3528QBS_D")
+)
+
+
+(part "AA3528QBS_D"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-11-13-13:28:44)
+    (utime 2020-11-14-06:26:38)
+    (packageRef "AA3528QBS_D")
+    (pinAssignRef "ECS_251387")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "LED")
+    (property "description" "Standard LEDs - SMD Blue Water Clear 470nm 150mcd")
+    (property "Manufacturer_Name" "Kingbright")
+    (property "Manufacturer_Part_Number" "AA3528QBS/D")
+    (property "Mouser_Part_Number" "604-AA3528QBS/D")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Kingbright/AA3528QBS-D?qs=rY7msk5yxfZf0R9wN9U5BA%3D%3D")
+    (property "Arrow_Part_Number" "AA3528QBS/D")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/aa3528qbsd/kingbright")
+    (property "Datasheet_Link" "https://www.kingbrightusa.com/images/catalog/spec/aa3528qbs-d.pdf")
+    (property "compAreaTopHeight" 2.1)
+)
+
+

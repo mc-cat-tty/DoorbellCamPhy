@@ -1,0 +1,9 @@
+Manufacturer=Espressif Systems
+PartNumber=ESP32-S2-WROOM-I(M22S2H3200UH3Q0)
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=51
+Version=1.2
+Released=2020-10-20 10:26:31
+Downloaded=2022-06-24 15:27:28
+3D=Y

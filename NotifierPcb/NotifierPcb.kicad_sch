@@ -1,0 +1,21 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid 046aad60-425c-4ad1-9453-58fd48558605)
+
+  (paper "A4")
+
+  (title_block
+    (title "NotifierPcb")
+    (date "2022-06-24")
+    (rev "1.0")
+    (company "mc-cat-tty")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

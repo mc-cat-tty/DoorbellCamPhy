@@ -1,0 +1,17 @@
+.AA3528QBS_D :1 ;Standard LEDs - SMD Blue Water Clear 470nm 150mcd
+LEDM3528X210N
+*STM LED
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN AA3528QBS_D
+~!Manufacturer_Name (Kingbright)
+~!Manufacturer_Part_Number (AA3528QBS/D)
+~!Mouser Part Number (604-AA3528QBS/D)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Kingbright/AA3528QBS-D?qs=rY7msk5yxfZf0R9wN9U5BA%3D%3D)
+~!Arrow Part Number (AA3528QBS/D)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/aa3528qbsd/kingbright)
+~!Link Datasheet (https://www.kingbrightusa.com/images/catalog/spec/aa3528qbs-d.pdf)
+~!Height (2.1mm)
+AA3528QBS_D
+1.1!U 2.1!U 

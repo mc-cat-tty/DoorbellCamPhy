@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP32-WROOM-32E__8MB_
+D WiFi Modules (802.11) Mod 8 MB SPI flash PCB antenna
+K
+F https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
+$ENDCMP
+#
+#End Doc Library

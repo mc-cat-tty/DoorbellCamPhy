@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "RC_433_RX")(type "KiCad")(uri "${KIPRJMOD}/RC_433_RF_LIB/RC_433_RX.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+Manufacturer=Kingbright
+PartNumber=AA3528QBS/D
+PartCategory=LED
+PackageCategory=LED Moulded
+PinCount=2
+Version=1.1
+Released=2020-11-13 13:28:44
+Downloaded=2022-06-24 15:47:38
+3D=N

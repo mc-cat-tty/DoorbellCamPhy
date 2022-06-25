@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CD4067BEE4
+D Analog Multiplexer Single 16:1
+K
+F https://pdf1.alldatasheet.com/datasheet-pdf/view/551558/TI/CD4067BEE4.html
+$ENDCMP
+#
+#End Doc Library
