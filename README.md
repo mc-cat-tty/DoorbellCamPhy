@@ -43,3 +43,9 @@
  <img src="RooftopSupport/rooftop_support_1.png" width="45%">
  <img src="RooftopSupport/rooftop_support_2.png" width="45%">
 </p>
+
+## Raspberry case IRL
+<p>
+ <img src="CaseIrl/pic1.png" width="45%">
+ <img src="CaseIrl/pic2.png" width="45%">
+</p>
