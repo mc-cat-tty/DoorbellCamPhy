@@ -46,6 +46,6 @@
 
 ## Raspberry case IRL
 <p>
- <img src="CaseIrl/pic1.png" width="45%">
- <img src="CaseIrl/pic2.png" width="45%">
+ <img src="CaseIrl/pic1.jpg" width="45%">
+ <img src="CaseIrl/pic2.jpg" width="45%">
 </p>
