@@ -1,7 +1,7 @@
 # DoorbellCamPhy
 ## Notifier pcb
-<embed src="NotifierPcb/Exports/NotifierPcbSchematic.pdf" type="application/pdf">
-<embed src="NotifierPcb/Exports/NotifierPcbBoard.pdf" type="application/pdf">
+[Schematic](NotifierPcb/Exports/NotifierPcbSchematic.pdf)
+[Board](NotifierPcb/Exports/NotifierPcbBoard.pdf)
 
 <p>
  <img src="NotifierPcb/Exports/NotifierPcb1.png" width="45%">
