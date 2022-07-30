@@ -1,4 +1,16 @@
 # DoorbellCamPhy
+## Notifier pcb
+<embed src="NotifierPcb/Exports/NotifierPcbSchematic.pdf" type="application/pdf">
+<embed src="NotifierPcb/Exports/NotifierPcbBoard.pdf" type="application/pdf">
+
+<p>
+ <img src="NotifierPcb/Exports/NotifierPcb1.png" width="45%">
+ <img src="NotifierPcb/Exports/NotifierPcb2.png" width="45%">
+ <br>
+ <img src="NotifierPcb/Exports/NotifierPcb1NoComponents.png" width="45%">
+ <img src="NotifierPcb/Exports/NotifierPcb2NoComponents.png" width="45%">
+</p>
+
 ## Camera holder
 [3D Model](Holder/holderv24.stl)
 
