@@ -1853,7 +1853,7 @@
   )
 
   (gr_circle (center 140.95 95.7) (end 146.25 131.5) (layer "F.SilkS") (width 0.15) (fill none) (tstamp f691be3b-29b3-4b5d-8b67-725eab15fce7))
-  (gr_rect (start 98.9 37.75) (end 180.525 135.65) (layer "Margin") (width 0.25) (fill none) (tstamp 607d14bb-e797-4dc1-a5cd-3b202409697d))
+  (gr_rect (start 98.9 37.75) (end 180.525 135.65) (layer "Edge.Cuts") (width 0.25) (fill none) (tstamp 607d14bb-e797-4dc1-a5cd-3b202409697d))
 
   (segment (start 135.85 109.47) (end 135.85 112.7) (width 0.5) (layer "F.Cu") (net 1) (tstamp 0d4ec9a2-6f20-41e9-b8f8-3a9b492a9514))
   (segment (start 140 116.85) (end 140 116.12) (width 0.5) (layer "F.Cu") (net 1) (tstamp 0d506bdf-f9ba-4c1c-9a19-aca010c18a59))
