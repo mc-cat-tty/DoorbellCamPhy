@@ -19,7 +19,7 @@
   (pad "1" thru_hole circle (at -1.1 4.7) (size 2.3 2.3) (drill 0.71) (layers *.Cu *.Mask) (tstamp fe1ff40c-c77f-44aa-9220-2bbc426a27c9))
   (pad "2" thru_hole circle (at -1.1 7.33) (size 2.3 2.3) (drill 0.71) (layers *.Cu *.Mask) (tstamp ea58a103-179b-435a-aace-ce4fc017448e))
   (pad "3" thru_hole circle (at -1.1 9.96) (size 2.3 2.3) (drill 0.71) (layers *.Cu *.Mask) (tstamp d1eb9037-3879-4214-bdb8-73289a30391e))
-  (pad "4" thru_hole circle (at -1.1 12.59) (size 2.3 2.3) (drill 0.71) (layers *.Cu *.Mask) (tstamp 1e6c81d8-8c1b-4e69-91ee-95ba838723a4))
+  (pad "4" thru_hole rect (at -1.1 12.59) (size 2.3 2.3) (drill 0.71) (layers *.Cu *.Mask) (tstamp 1e6c81d8-8c1b-4e69-91ee-95ba838723a4))
   (model "${KIPRJMOD}/RC_433_RF_LIB/433MhzRX v4.step"
     (offset (xyz 4 -1.3 8))
     (scale (xyz 1 1 1))
