@@ -475,7 +475,7 @@
       "netlist": "",
       "specctra_dsn": "",
       "step": "",
-      "vrml": "NotifierPcb.wrl"
+      "vrml": "Exports/NotifierPcb.wrl"
     },
     "page_layout_descr_file": ""
   },
