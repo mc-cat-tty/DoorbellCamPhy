@@ -1,4 +1,4 @@
-20346225741503589
+20386601719973042
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2372,13 +2372,6 @@ speaker CUI
 0
 2
 2
-CD4067
-DIP1080W53P254L3104H508Q24N
-N(R-PDIP-T24)
-Integrated Circuit
-0
-24
-24
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -52121,20 +52114,6 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
-ESP32
-ESP32S2WROOMIM22S2H3200UH3Q0
-ESP32-S2-WROOM-I(M22S2H3200UH3Q0)-2
-Integrated Circuit
-0
-51
-51
-ESP32-WROOM
-ESP32WROOM32E8MB
-ESP32-WROOM-32E (8MB)-3
-Integrated Circuit
-0
-47
-47
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -56601,13 +56580,6 @@ solder jumper open
 0
 5
 3
-KiCad
-RESAD1550W60L630D230
-MFS1/2CCT52A1000F-+-
-Resistor
-0
-2
-2
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -62636,8 +62608,8 @@ LFCSP-WD NoLead
 24
 11
 Package_CSP
-Maxim_WLCSP-32_3.0x2.17mm_Layout7x5_P0.4mm_Ball0.27mm_Pad0.25mm
-WLCSP-32, 2.168x2.998mm, 35 Ball, 7x5 Layout, 0.4mm Pitch, https://pdfserv.maximintegrated.com/package_dwgs/21-100489.PDF
+Maxim_WLCSP-35_3.0x2.17mm_Layout7x5_P0.4mm_Ball0.27mm_Pad0.25mm
+WLCSP-35, 2.168x2.998mm, 35 Ball, 7x5 Layout, 0.4mm Pitch, https://pdfserv.maximintegrated.com/package_dwgs/21-100489.PDF
 CSP 35 0.4
 0
 35
@@ -71505,6 +71477,13 @@ SSOP 0.65 exposed pad
 18
 15
 Package_SO
+TSSOP-14_4.4x3.6mm_P0.4mm
+TSSOP, 14 Pin (JEDEC MO-194 Var AA https://www.jedec.org/document_search?search_api_views_fulltext=MO-194), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+14
+14
+Package_SO
 TSSOP-14_4.4x5mm_P0.65mm
 TSSOP, 14 Pin (JEDEC MO-153 Var AB-1 https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
 TSSOP SO
@@ -71533,12 +71512,26 @@ TSSOP SO
 26
 17
 Package_SO
+TSSOP-16_4.4x3.6mm_P0.4mm
+TSSOP, 16 Pin (JEDEC MO-194 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=MO-194), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+16
+16
+Package_SO
 TSSOP-16_4.4x5mm_P0.65mm
 TSSOP, 16 Pin (JEDEC MO-153 Var AB https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
 TSSOP SO
 0
 16
 16
+Package_SO
+TSSOP-20_4.4x5mm_P0.4mm
+TSSOP, 20 Pin (JEDEC MO-194 Var AC https://www.jedec.org/document_search?search_api_views_fulltext=MO-194), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+20
+20
 Package_SO
 TSSOP-20_4.4x5mm_P0.5mm
 TSSOP, 20 Pin (JEDEC MO-153 Var BA https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
@@ -71841,6 +71834,13 @@ TSSOP SO
 52
 52
 Package_SO
+TSSOP-56_4.4x11.3mm_P0.4mm
+TSSOP, 56 Pin (JEDEC MO-194 Var AF https://www.jedec.org/document_search?search_api_views_fulltext=MO-194), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+56
+56
+Package_SO
 TSSOP-56_6.1x12.5mm_P0.4mm
 TSSOP, 56 Pin (JEDEC MO-153 Var FD https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py
 TSSOP SO
@@ -71910,6 +71910,13 @@ TSSOP SO
 0
 80
 80
+Package_SO
+TSSOP-100_6.1x20.8mm_P0.4mm
+TSSOP, 100 Pin (JEDEC MO-194 Var BB https://www.jedec.org/document_search?search_api_views_fulltext=MO-194), generated with kicad-footprint-generator ipc_gullwing_generator.py
+TSSOP SO
+0
+100
+100
 Package_SO
 Texas_HSOP-8-1EP_3.9x4.9mm_P1.27mm
 Texas Instruments HSOP 9, 1.27mm pitch, 3.9x4.9mm body, exposed pad, DDA0008J (http://www.ti.com/lit/ds/symlink/tps5430.pdf)
@@ -78974,6 +78981,13 @@ co2 gas sensor pwm modbus
 9
 9
 Sensor
+Sensirion_SCD4x-1EP_10.1x10.1mm_P1.25mm_EP4.8x4.8mm
+Sensirion SCD4x QFN, 20 Pin (https://sensirion.com/media/documents/C4B87CE6/627C2DCD/CD_DS_SCD40_SCD41_Datasheet_D1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+Sensirion QFN NoLead
+0
+25
+21
+Sensor
 Winson_GM-402B_5x5mm_P1.27mm
 Winson GM-402B, 8 Pin (https://www.winsen-sensor.com/d/files/me2/mems--gm-402b--manual-v1_1.pdf)
 Winson
@@ -79337,13 +79351,6 @@ LEM Hall Effect Voltage transducer
 0
 5
 5
-SmdLed
-LEDM3528X210N
-2-PLCC
-LED
-0
-2
-2
 Socket
 3M_Textool_240-1288-00-0602J_2x20_P2.54mm
 3M 40-pin zero insertion force socket, though-hole, row spacing 25.4 mm (1000 mils)
@@ -84685,6 +84692,13 @@ Ethernet Transformer
 0
 16
 16
+Transformer_SMD
+Transformer_Ethernet_YDS_30F-51NL_SO-24_7.1x15.1mm
+YDS 30F-51NL SO, 24 Pin (https://datasheet.lcsc.com/lcsc/1811051610_Shanghai-YDS-Tech-30F-51NL_C123168.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+YDS SO Transformer_SMD
+0
+24
+24
 Transformer_SMD
 Transformer_MACOM_SM-22
 https://cdn.macom.com/datasheets/ETC1-1-13.pdf
