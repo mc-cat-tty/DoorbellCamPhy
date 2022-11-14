@@ -1384,10 +1384,6 @@
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid d6341c93-dee1-4a24-af22-fb5c48db0f66)
   )
-  (wire (pts (xy 171.45 104.14) (xy 175.26 104.14))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid d7fc2efc-db22-4a0a-b4c2-b778fc982069)
-  )
   (wire (pts (xy 213.36 78.74) (xy 213.36 81.28))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid da1ca334-504e-42e8-9db3-8f0a6b03bdd6)
@@ -2479,22 +2475,6 @@
     (pin "2" (uuid 8837dc9b-bb0a-4a0a-9e41-b9efd2fb16eb))
   )
 
-  (symbol (lib_id "power:GND") (at 171.45 104.14 0) (unit 1)
-    (in_bom yes) (on_board yes) (fields_autoplaced)
-    (uuid 5d99d38c-992c-4cfd-a466-550bac2fdf2c)
-    (property "Reference" "#PWR0105" (id 0) (at 171.45 110.49 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (id 1) (at 171.45 109.22 0))
-    (property "Footprint" "" (id 2) (at 171.45 104.14 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (id 3) (at 171.45 104.14 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 12e79c19-edfa-4ed0-a418-ca1da29b94cb))
-  )
-
   (symbol (lib_id "ESP32-WROOM-32E__8MB_:ESP32-WROOM-32E__8MB_") (at 175.26 45.72 0) (unit 1)
     (in_bom yes) (on_board yes) (fields_autoplaced)
     (uuid 64bc5bde-4097-4632-869d-e864feda4607)
@@ -3227,9 +3207,6 @@
     )
     (path "/fb3867d9-3f12-4d88-8d27-8e5600a44fc4"
       (reference "#PWR0104") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/5d99d38c-992c-4cfd-a466-550bac2fdf2c"
-      (reference "#PWR0105") (unit 1) (value "GND") (footprint "")
     )
     (path "/12806a65-998f-4a2d-a376-f4dac4a43e49"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
