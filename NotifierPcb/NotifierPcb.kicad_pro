@@ -411,7 +411,6 @@
           "RX",
           "UART_RX",
           "UART_TX",
-          "unconnected-(IC2-Pad11)",
           "unconnected-(IC2-Pad12)",
           "unconnected-(IC2-Pad13)",
           "unconnected-(IC2-Pad14)",
