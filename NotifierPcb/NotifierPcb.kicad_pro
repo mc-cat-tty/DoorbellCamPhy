@@ -407,7 +407,6 @@
           "LED8",
           "LED9",
           "Net-(LED1-Pad1)",
-          "POWER",
           "RX",
           "UART_RX",
           "UART_TX",
