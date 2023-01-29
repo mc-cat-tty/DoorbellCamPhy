@@ -1,5 +1,5 @@
 # DoorbellCamPhy
-## Notifier pcb
+## Notifier PCB
 [Schematic](NotifierPcb/Exports/NotifierPcbSchematic.pdf)
 
 [Board](NotifierPcb/Exports/NotifierPcbBoard.pdf)
@@ -12,7 +12,8 @@
  <img src="NotifierPcb/Exports/NotifierPcb2NoComponents.png" width="45%">
 </p>
 
-## Notifier pdb end result
+## Notifier PCB end result
+![LedRing.gif](LedRing.gif)
 
 ## Camera holder
 [3D Model](Holder/holderv24.stl)
