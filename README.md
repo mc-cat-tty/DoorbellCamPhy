@@ -13,7 +13,7 @@
 </p>
 
 ## Notifier PCB end result
-![LedRing.gif](LedRing.gif)
+<img src="LedRing.gif">
 
 ## Camera holder
 [3D Model](Holder/holderv24.stl)
